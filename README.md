@@ -1,2 +1,3 @@
 <h1>OUTPUT</h1>
-![outputImage](images/output.jpg)
+
+![alt text](output-1.jpg)
