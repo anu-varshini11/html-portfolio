@@ -1,2 +1,2 @@
 <h1>OUTPUT</h1>
-![ouputImage](images/output.jpg)
+![outputImage]("C:\Users\admin\COLLEGE\PORTFOLIO\images\output.jpg")
